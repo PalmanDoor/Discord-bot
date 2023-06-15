@@ -1,0 +1,7 @@
+discord.py
+openai
+difflib
+aiohttp
+pynacl
+praw
+beautifulsoup4
